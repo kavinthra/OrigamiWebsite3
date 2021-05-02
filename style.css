@@ -1,0 +1,39 @@
+h1{
+    color:greenyellow;
+    border:10px solid dimgray;
+    background-color: dimgray;
+}
+body{
+    background-color: #f7f2f2;
+    margin:2px;
+    
+}
+img{
+    border:5px solid #000000;
+    border-radius: 40px;
+}
+.Menu{
+    display:flex;
+    justify-content:space-between;
+    background-color: #000000;
+    padding: 15px;
+    color:#ffffff;
+    font-size: 20px;
+    font-family:sans-serif;
+}
+.Grid{
+    display:flex;
+    margin:40px;
+    flex-wrap:wrap;
+}
+.Grid img{
+    border:2px solid #000000;
+    border-radius:50px;
+}
+.Origami{
+    border-radius:20px;
+    background-color: antiquewhite;
+    width:310px;
+    margin:25px;
+    padding:30px;
+}
